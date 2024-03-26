@@ -11,14 +11,21 @@ Enter the height of the triangle.
 ## Input And Output
 
 Enter a character:
+
 %
+
 Enter triangle height:
+
 5
 
 % 
+
 % % 
+
 % % % 
+
 % % % % 
+
 % % % % % 
 
 
