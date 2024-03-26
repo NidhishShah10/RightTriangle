@@ -1,22 +1,16 @@
 ## Right Triangle Creator
 
-Usage:
-
-Run the program
-
-Enter a character to be used in the triangle.
-
-Enter the height of the triangle.
-
-## Input And Output
+## How to use
 
 Enter a character:
 
-%
+% (user input)
 
 Enter triangle height:
 
-5
+5 (user input)
+
+Output:
 
 % 
 
